@@ -1,0 +1,11 @@
+# Compiled binaries
+organizer
+organizer.exe
+a.out
+*.o
+*.obj
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp

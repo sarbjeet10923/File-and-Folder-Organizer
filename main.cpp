@@ -2,6 +2,7 @@
 #include <filesystem>
 #include <string>
 #include <algorithm>
+#include <cctype>
 
 namespace fs = std::filesystem;
 using namespace std;
